@@ -1,6 +1,6 @@
 import pygame
 
-# constants and variables
+
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 
@@ -38,8 +38,6 @@ ball_x_vel = -10
 ball_y_vel = 0
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-
-# drawing object
 
 
 def draw_object():
