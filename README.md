@@ -1,6 +1,8 @@
 # Games
 _Games created with Python._
 
+----
+
 ## Ping-pong
 Ping pong for two players, I hope it will help you have a good time with your friends.
 ### Technology
